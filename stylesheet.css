@@ -1,0 +1,61 @@
+header
+{
+    align-content: center;
+    text-align: center;
+    font-weight: bold;
+    background: #e7e1bc;
+    padding: 5px 5px 5px 5px;
+}
+header h1
+{   
+    text-shadow: 5px 5px 5px #90908f;
+}
+header img
+{
+    border: none;
+}
+body
+{
+    background: #ffffff;
+    font-family: sans-serif;
+    color: #000000;
+}
+p
+{
+    padding: 10px 100px; 
+}
+
+h2
+{
+   padding: 10px 100px;  
+}
+a:link{
+    font-weight: normal; color: #6885e3;
+    padding-right: 50px;
+    text-decoration: none;
+}
+a:visited
+{
+    font-weight: normal; color:inherit; 
+}
+img
+{
+    border: 3px solid #2d73c9;
+    
+}
+article h3
+{
+    color: #c8b438;
+    margin: 10px 100px;    
+}
+article img
+{
+    opacity: 0.4;
+}
+article img:hover {
+    opacity: 1.0;
+}
+.project-list
+{
+    
+}
